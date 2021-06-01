@@ -1,0 +1,2 @@
+Das ist eine Katze . ||| This is a cat .
+Das ist ein Hund . ||| This is a dog .
